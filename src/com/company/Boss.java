@@ -22,7 +22,7 @@ public class Boss {
     }
 
     public String getProtection() {
-        return protection;
+        return this.protection;
     }
 }
 
